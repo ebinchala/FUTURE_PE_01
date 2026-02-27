@@ -94,3 +94,15 @@ This structure ensures the content is:
 
 ## 📂 Repository Structure
 
+FUTURE_PE_02/
+│
+├── README.md
+├── prompts/
+│ └── retail_master_prompt.md
+│
+├── outputs/
+│ └── nebil_store_output.md
+│
+└── screenshots/
+└── generated_copy.png
+
